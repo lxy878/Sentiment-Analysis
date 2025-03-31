@@ -5,7 +5,7 @@
 2. running the command in terminal:
 * For Server
     ```bash
-    pip3 install beautifulsoup4 && pip3 install requests && pip3 install textblob && pip3 install Flask && pip3 install python-sentiment && pip3 install flask-cors
+    pip3 install textblob && pip3 install Flask && pip3 install python-sentiment && pip3 install flask-cors
     ```
 * For Scraper
     ```bash
